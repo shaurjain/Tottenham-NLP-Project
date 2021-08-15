@@ -7,7 +7,7 @@ The aim of the project was to find Tottenham Fans' sentiment regarding the appoi
 
 • Used various NLP techniques to clean the tweets
 
-• Labelled the dataset and make used TFIDF/ Count Vectorizer on the cleaned Tweets
+• Labelled the dataset and used TFIDF/ Count Vectorizer on the cleaned Tweets
 
 • Considered Logistic Regression and SVM finding best hyperparameters using GridSearch CV
 
